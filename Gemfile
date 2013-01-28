@@ -6,6 +6,7 @@ gem "mongoid", ">= 3.0.15"
 gem "haml", ">= 3.1.7"
 gem "simple_form", ">= 2.0.4"
 gem "figaro", ">= 0.5.0"
+gem 'pry-rails'
 
 gem "rspec-rails", ">= 2.11.4", :group => [:development, :test]
 gem "factory_girl_rails", ">= 4.1.0", :group => [:development, :test]

@@ -137,6 +137,8 @@ GEM
       coderay (~> 1.0.5)
       method_source (~> 0.8)
       slop (~> 3.4)
+    pry-rails (0.2.2)
+      pry (>= 0.9.10)
     quiet_assets (1.0.1)
       railties (~> 3.1)
     rack (1.4.4)
@@ -244,6 +246,7 @@ DEPENDENCIES
   jquery-rails
   mongoid (>= 3.0.15)
   mongoid-rspec (>= 1.5.5)
+  pry-rails
   quiet_assets (>= 1.0.1)
   rails (= 3.2.11)
   rb-fsevent (~> 0.9.1)
